@@ -1,6 +1,8 @@
 {
-  "name": "ID-generator",
-  "version": "1.0.0",
+  "name": "@mgrzanek/randomid-generator",
+  "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Monika",
+  "keywords": "ID-generator"
 }
